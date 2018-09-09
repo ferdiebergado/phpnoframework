@@ -1,0 +1,5 @@
+/.phpintel
+/config/database.php
+/database
+/vendor
+/tmp/sessions

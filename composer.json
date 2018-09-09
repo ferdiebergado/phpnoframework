@@ -1,0 +1,19 @@
+{
+    "name": "ferdiebergado/phpnoframework",
+    "description": "A boilerplate for php application without a framework",
+    "type": "project",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "require-dev": {
+        "maximebf/debugbar": "^1.15",
+        "filp/whoops": "^2.2"
+    },  
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ferdinand Saporas Bergado",
+            "email": "ferdiebergado@gmail.com"
+        }
+    ]
+}
